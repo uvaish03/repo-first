@@ -1,4 +1,4 @@
 # repo-first
 This is my first repo
 <br>
-author - Mohammad Uvaish
+author - Mohammad Uvaish Gour
